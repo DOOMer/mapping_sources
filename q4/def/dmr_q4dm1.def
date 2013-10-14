@@ -1,0 +1,15 @@
+mapDef mp/dmr_q4dm1 {
+	"name"		"Dead Simple II"
+	"DM"		"1"
+	"Team DM"		"0"
+	"Tourney"		"1"
+	"CTF"		"0"
+	"Arena CTF"		"0"
+	"Gametype_Deathmatch"		"1"
+	"Gametype_TeamDeathmatch"		"0"
+	"Gametype_Tournament"		"1"
+	"Gametype_CaptureTheFlag"		"0"
+	"Gametype_ArenaCaptureTheFlag"		"0"
+	"loadimage"	                        "gfx/guis/loadscreens/dmr_q4dm1"
+		"mp_thumb" "gfx/guis/lmainmenu/thumb_dmr_q4dm1"
+}

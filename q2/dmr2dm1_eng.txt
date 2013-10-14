@@ -1,0 +1,58 @@
+Game:			: Quake 2
+========================================================================================================
+Title                   : Hexagon Arena
+Version			: 1.2 Final
+Date                    : 11 December 2006 
+Map filename		: dmr2dm1.bsp
+System required		: Quake 2 v3.20
+Author                  : Artem "DOOMer" Galichkin
+Email Address           : doomer3d@rambler.ru
+Site			: http://quakegate.ru/
+			  http://doomer.org/ 
+	  
+Additional Credits to   : id Software & Raven Software for Quake 4 
+
+Installation		: Extract the bsp file into your baseq2/maps directory 
+			  and type in console map dmr_q2dm1 
+                         
+Special thanks		: Tanya for her moral support during the work on this level.
+			  Berserker for help in creation of version 1.2
+			  Digs for testing
+
+========================================================================================================
+
+- Play Information -
+
+Players                 : 2-4 
+Free For All		: Yes
+Team DeathMatch		: No
+Tournament		: Yes
+CTF			: No
+
+New Textures		: No   
+New Sounds		: No
+New Music		: No
+
+- Construction -
+
+Base                    : New level from scratch
+Editor(s) used          : GtkRadiant 1.4.0
+Known Bugs              : none, if you find it - mail to me for fixing =)
+BSP Time		: 0 Seconds
+VIS Time		: 0 Seconds
+RAD Time		: 40 Minutes 49 Seconds
+Build Time              : some days  
+
+Compile machine         : iP4 3.2 GHz & 1024 MB Ram & GeForce 760GT 256 mb PCI-Ex16
+
+
+Small arena-styled map
+
+
+Copyright & Distribution: 
+
+Copyright (c) 2006 by Artem "DOOMer" Galichkin
+
+This level can freely be distributed provided that it occurs 
+free-of-charge and without entering any changes into a level 
+and text file and to presence of all files, given by the author. 

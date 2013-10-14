@@ -1,0 +1,51 @@
+Game:			: Quake
+================================================================
+Title                   : Not Simple Box
+Version			: 0.99
+Date                    : 4 Nov 2007 
+Map filename		: lm00_doomer_nsb.bsp
+System required		: GLQuake  1.09 BJ-version
+Author                  : Artem "DOOMer" Galichkin
+Email Address           : doomer3d@gmai.com
+Site			: http://quakegate.ru
+			  http://mapper.ru 
+	  
+Additional Credits to   : id Software for Quake 1 
+                         
+Special thanks		: sLon1x for LM  ideas
+
+================================================================
+
+- Play Information -
+
+Players                 : 2 
+Single\Coop		: No
+Deathmatch		: Yes
+Team DeathMatch		: No
+
+New Textures		: No   
+New Sounds		: No
+New Music		: No
+
+- Construction -
+
+Base                    : from scratch
+Editor(s) used          : GtkRadiant 1.5.0, txqmap, rvis, tyrlight, glquakebjp 
+BSP Time		: 11 seconds
+VIS Time		: 2 minute [vis -fast -level 4]
+Light Time 		: 1 seconds
+AAS time		: 8 seconds
+Build Time              : 16 monts (with breaks) 
+
+Compile machine         : Core 2 Duo 2.13 GHz & 2048 MB Ram & GeForce GF8800 GTS 320 mb PCI-Ex16
+
+
+Small DM-level, designed for Legomapping #0 on QuakeGate.Ru.
+
+Copyright & Distribution: 
+
+Copyright (c) 2007 by Artem "DOOMer" Galichkin
+
+This level can freely be distributed provided that it occurs 
+free-of-charge and without entering any changes into a level 
+and text file and to presence of all files, given by the author. 

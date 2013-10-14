@@ -1,0 +1,13 @@
+textures/skies/redSky2
+{	//red sky by DOOMer
+	qer_editorimage	textures/editor/sky.tga
+	noFragment
+	forceOpaque
+	noimpact
+	noshadows
+	{
+		blend			add			// so transparent windows can draw on top of it
+		cameraCubeMap	gfx/env/redsky/redsky
+		texgen		skybox
+	}
+}
